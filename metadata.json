@@ -1,0 +1,8 @@
+{
+  "name": "AutoSphere 🚘",
+  "description": "A high-performance automotive marketplace featuring dynamic listings, advanced filtering, and AI-powered vehicle insights and search assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
